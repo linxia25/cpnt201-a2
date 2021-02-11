@@ -14,27 +14,28 @@ A website for online sales of high-end furniture!
 - GH Pages：https://linxia25.github.io/cpnt201-a2/
 
 ## File/directory
-/assets
-  /css
-    /style.css
-  /images
-    /full
-      /img-1.jpg
-      /img-2.jpg
-      /img-3.jpg
-    /lg
-      /img-1.webp
-      /img-2.webp
-      /img-3.webp
-    /md
-      /img-1.webp
-      /img-2.webp
-      /img-3.webp
-    /sm
-      /img-1.webp
-      /img-2.webp
-      /img-3.webp
-/index.html
+- /assets
+  - /css
+      --- styles.css
+  - /images
+    --- /full
+      ---   img-1.jpg
+      ---   img-2.jpg
+      ---   img-3.jpg
+   --- /lg
+      ---   img-1.jpg
+      ---   img-2.jpg
+      ---   img-3.jpg
+  --- /md
+      ---   img-1.jpg
+      ---   img-2.jpg
+      ---   img-3.jpg
+  --- /sm
+      ---   img-1.jpg
+      ---   img-2.jpg
+      ---   img-3.jpg
+- /index.html
+- /README.md
 
 ## License
 - [Applicable License](https://creativecommons.org/licenses/by/4.0/legalcode "Applicable License")
