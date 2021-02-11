@@ -19,21 +19,21 @@ A website for online sales of high-end furniture!
       --- styles.css
   - /images
     --- /full
-      ---   img-1.jpg
-      ---   img-2.jpg
-      ---   img-3.jpg
+      ---img-1.jpg
+      ---img-2.jpg
+      ---img-3.jpg
    --- /lg
-      ---   img-1.jpg
-      ---   img-2.jpg
-      ---   img-3.jpg
+      ---img-1.jpg
+      ---img-2.jpg
+      ---img-3.jpg
   --- /md
-      ---   img-1.jpg
-      ---   img-2.jpg
-      ---   img-3.jpg
+      ---img-1.jpg
+      ---img-2.jpg
+      ---img-3.jpg
   --- /sm
-      ---   img-1.jpg
-      ---   img-2.jpg
-      ---   img-3.jpg
+      ---img-1.jpg
+      ---img-2.jpg
+      ---img-3.jpg
 - /index.html
 - /README.md
 
