@@ -5,12 +5,12 @@ By Xia Lin February 8, 2021
 A website for online sales of high-end furniture!
 
 ## Attributions
-- [img-1](https://www.pexels.com/photo/2-seat-orange-leather-sofa-beside-wall-1866149/ "sofa") by Martin Pechy.
+- [img-1.jpg](https://www.pexels.com/photo/2-seat-orange-leather-sofa-beside-wall-1866149/ "sofa") by Martin Pechy.
 - [img-2.jpg](https://www.pexels.com/photo/brown-white-and-blue-wooden-board-245208/) by ATBO.
 - [img-3.jpg](https://www.pexels.com/photo/two-assorted-color-padded-chairs-near-side-table-1350789/ "chair") by Eric Montanah.
 
 ## Links
-- GH repo: https://github.com/linxia25/cpnt201-a2
+- GH Repo: https://github.com/linxia25/cpnt201-a2
 - GH Pages：https://linxia25.github.io/cpnt201-a2/
 
 ## File/directory
