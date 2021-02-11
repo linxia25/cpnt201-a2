@@ -10,8 +10,8 @@ A website for online sales of high-end furniture!
 - [img-3.jpg](https://www.pexels.com/photo/two-assorted-color-padded-chairs-near-side-table-1350789/ "chair") by Eric Montanah.
 
 ## Links
-- GH repo: https://github.com/linxia25/cpnt260-a4.git
-- GH Pages site: https://linxia25.github.io/cpnt260-a4/
+- GH repo: https://github.com/linxia25/cpnt201-a2
+- GH Pages：https://linxia25.github.io/cpnt201-a2/
 
 ## File/directory
 /assets
